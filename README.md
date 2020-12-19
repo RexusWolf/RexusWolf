@@ -33,6 +33,8 @@ These are the technologies I've been learning and using so far:
   [![Wordpress](https://img.shields.io/badge/Wordpress-0175C2?style=for-the-badge&logo=wordpress&logoColor=white)](http://nanachocolate.com/)
 - Backend : <br />
   [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+  [![DDD](https://img.shields.io/badge/DDD-35495E?style=for-the-badge&logoColor=4FC08D)]()
+  [![TDD](https://img.shields.io/badge/TDD-76B900?style=for-the-badge&logoColor=white)]()
   [![Docker](https://img.shields.io/badge/Docker-02569B?style=for-the-badge&logo=docker&logoColor=white)]()
   [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
   [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
