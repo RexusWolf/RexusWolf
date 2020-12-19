@@ -9,7 +9,7 @@ I'm a spanish guy, currently studying Software Engineering at University of Cord
 I've been working as an intern student at [@AudienseCo](https://github.com/AudienseCo) since October 2020.
 
 - 🚀 I’m currently working in a side project in React Native, which has been made by a group of 5 as a university project. It's called [Ilyb (I Love Your Book)](https://github.com/ILoveYourBook/Ilyb), and it consists of a Tinder clone for trading books.
-- 🔥 I've grown up with awesome people at Free Software Club of University of Cordoba, where we've worked in several side projects together.
+- 🔥 I've grown up with awesome people at [Free Software Club of University of Cordoba](https://github.com/aulasoftwarelibre), where we've worked in several side projects together.
 - 🏐 My hobbies are sports (voleyball is life), cinema, languages and music.
 - 🌟 Contact me at [francisjmp99@gmail.com](mailto:francisjmp99@gmail.com).
 
