@@ -35,9 +35,9 @@ These are the technologies I've been learning and using so far:
   [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
   [![DDD](https://img.shields.io/badge/DDD-35495E?style=for-the-badge&logoColor=4FC08D)]()
   [![TDD](https://img.shields.io/badge/TDD-76B900?style=for-the-badge&logoColor=white)]()
+  [![Firebase](https://img.shields.io/badge/Firebase-0081CB?style=for-the-badge&logo=firebase)](https://github.com/Need2Watch/N2W_Front)
   [![Docker](https://img.shields.io/badge/Docker-02569B?style=for-the-badge&logo=docker&logoColor=white)]()
   [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-  [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 - OS & IDE & Tools : <br />
   [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
   [![VS Code](https://img.shields.io/badge/VSCode-003791?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
