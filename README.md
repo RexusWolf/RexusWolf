@@ -13,7 +13,7 @@ I've been working as an intern student at [@AudienseCo](https://github.com/Audie
 - 🏐 My hobbies are sports (voleyball is life), cinema, languages and music.
 - 🌟 Contact me at [francisjmp99@gmail.com](mailto:francisjmp99@gmail.com).
 
-These are the technologies I've been learning and using so far:
+These are the technologies I've been learning and using so far, some of them are linked to projects I've working on:
 
 - Programming languages : <br />
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ILoveYourBook/Ilyb)
