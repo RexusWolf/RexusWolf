@@ -45,4 +45,4 @@ These are the technologies I've been learning and using so far, some of them are
   [![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3060Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
   [![AMD](https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]() <br />
 
-  [![rexuswolf's github stats](https://github-readme-stats.vercel.app/api?username=rexuswolf&theme=radical)](https://github.com/rexuswolf/github-readme-stats)
+  [![rexuswolf's github stats](https://github-readme-stats.vercel.app/api?username=rexuswolf&theme=radical&count_private=true&show_icons=true)](https://github.com/rexuswolf/github-readme-stats)
