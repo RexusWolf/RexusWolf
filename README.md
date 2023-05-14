@@ -4,9 +4,9 @@
 [![My Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rexuswolf)
 [![My Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rexusyt?si=9oFYaEowQkSJLn_8kScsJw)
 
-I'm a spanish guy, currently studying Software Engineering at University of Cordoba. My passions in development are front-end and team side projects.
+I'm a spanish guy, studied Software Engineering at University of Cordoba.
 
-I've been working as a Developer at [@AudienseCo](https://github.com/AudienseCo) since October 2020.
+I've been working as a Full-Stack Product Developer at [@AudienseCo](https://github.com/AudienseCo) since October 2020.
 
 - 🔥 I've grown up with awesome people at Audiense and the [Free Software Club of University of Cordoba](https://github.com/aulasoftwarelibre), where we've worked in several side projects together.
 - 🏐 My hobbies are sports, board games, videogames, cinema and music (especially OSTs).
